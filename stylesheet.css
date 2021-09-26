@@ -1,10 +1,24 @@
-.navdiv {
-    display:inline-flex;
-}
-.firstdiv {
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@400&display=swap');
 
+
+.mainfont {
+    font-family: 'Quicksand', sans-serif;
 }
 
-.seconddiv{
-     
+.secondaryfont {
+    font-family: 'Quicksand', sans-serif;
+}
+
+.picture {
+    min-width: 4em;
+    max-width: 10em;
+    min-height: 4em;
+    max-height: 10em;
+    margin-right: 4em;
+    float:right;
+}
+
+h3 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
 }
